@@ -10,5 +10,5 @@ For maiking this code work you may need to install some additional libraries:
 
 
  * 	ScreenCapture
-	not nessery, but it was used to create a robust screen cupturing (to work with more complicated screen settings)
+	is not nessery, but it was used to create a robust screen cupturing (to work with more complicated screen settings)
 	http://www.mathworks.com/matlabcentral/fileexchange/downloads/1943202/akamai/ScreenCapture.zip
